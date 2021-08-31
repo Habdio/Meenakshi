@@ -16,7 +16,7 @@
 
 ## 📢Introduce myself
 
-- 🙂 I'm Vishnu Prasad
+- 🙂 I'm Jack
 - 🚩 I'm a beginner in this field
 - 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
 - 🎮 BGMI player (ID:5444486441)
@@ -30,7 +30,7 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 ### Disclaimer ❗
 ```
   
-Meenakshi - Meenakshi Userbot is Open Source software open to development. 
+Diya - Diya Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -71,10 +71,10 @@ the user is responsible.
   <p align="center">
 
 
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Diya-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-habdio-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
