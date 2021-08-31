@@ -16,12 +16,11 @@
 
 ## 📢Introduce myself
 
-- 🙂 I'm Vishnu Prasad
+- 🙂 I'm MFA JACK
 - 🚩 I'm a beginner in this field
-- 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
-- 🎮 BGMI player (ID:5444486441)
-- 🏫 High School at Sree Narayana Central School,Kayamkulam
-- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
+- 📍 From THIRUVALLA,PATHANAMTHITTA,Kerala,🇮🇳
+- 🏫 High School at ST.BEHANANS,PATHANAMTHITTA 
+- 🏫 Now I'm studying 10TH STANDARD in ST.BEHANANS,VENNIKULAM
 
 ```
 This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
@@ -30,7 +29,7 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 ### Disclaimer ❗
 ```
   
-Meenakshi - Meenakshi Userbot is Open Source software open to development. 
+DIYA- DIYA Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -74,11 +73,11 @@ the user is responsible.
 <a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-MFA JACK-DIYA/DIYA?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu Prasad</a> to make it public
+Project created by <a href="https://github.com/MFA JACK-DIYA">MFA JACK</a> to make it public
     <br>
        | © |
         Reserved |
@@ -88,13 +87,13 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/vishnu-memanakizhakathil/Meenakshi">
-    <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/MFA JACK-DIYA/DIYA">
+    <img src="https://img.shields.io/github/repo-size/MFA JACK-DIYA/DIYA?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-memanakizhakathil?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-memanakizhakathil/Meenakshi?label=Watchers&color=pink&style=flat-square"></a>
+<a href="https://github.com/MFA JACK-DIYA/followers"><img title="Followers" src="https://img.shields.io/github/followers/MFA JACK-DIYA?color=pink&style=flat-square"></a>
+<a href="https://github.com/MFA JACK-DIYA/DIYA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MFA JACK/DIYA?color=pink&style=flat-square"></a>
+<a href="https://github.com/MFA JACK-DIYA/DIYA/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MFA JACK-DIYA/DIYA?color=pink&style=flat-square"></a>
+<a href="https://github.com/MFA JACK-DIYA/DIYA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MFA JACK-DIYA/DIYA?label=Watchers&color=pink&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
@@ -104,15 +103,15 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu 
   <a href="https://wa.me/916235989299"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://https://www.facebook.com/danger666host"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/vishnuprasad62"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/vishnu-memanakizhakathil"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://github.com/MFA JACK-DIYA"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   
 </p>
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-memanakizhakathil&show_icons=true&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MFA JACK-DIYA&show_icons=true&theme=nightowl" alt="MFA JACK-DIYA" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-memanakizhakathil&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MFA JACK-DIYA&theme=nightowl" alt="MFA JACK-DIYA" /></p>
 </details> </div>
 
 
@@ -123,7 +122,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=Meenakshi&theme=nightowl)](https://github.com/vishnu-memanakizhakathil/Meenakshi)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MFA JACK-DIYA&repo=DIYA&theme=nightowl)](https://github.com/MFA JACK-DIYA/DIYA)
   </div>
     
 ## Setup
@@ -131,9 +130,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@vishnukyk/Meenakshi-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MFA JACK/DIYA-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-memanakizhakathil/Meenakshi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MFAJACK-DIYA/DIYA)
      </div>
 <br>
 <br >
@@ -148,8 +147,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/mfajack-diya/Diya
+$ cd Diya
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -158,8 +157,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/mfajack-diya/Diya
+$ cd Diya
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -198,9 +197,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![Subhashini](https://github.com/subbusubashni.png?size=100)](https://github.com/subbusubashni) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![mfajack](https://github.com/mfajack-diya.png?size=100)](https://github.com/mfajack-diya) |  [![Subhashini](https://github.com/subbusubashni.png?size=100)](https://github.com/subbusubashni) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [Subhashini-Selvaraj](https://github.com/subbusubashni) | [afnanplk](https://github.com/afnanplk)
+[Mfajack-diya](https://github.com/mfajack-diya)  | [Subhashini-Selvaraj](https://github.com/subbusubashni) | [afnanplk](https://github.com/afnanplk)
 Author, Base, Bug Fixes, Modules | Modifiying  as   public, Bug Fixes | Bug Fixes, Modules
   </div>
  
